@@ -4,9 +4,7 @@
 
 ---
 
-# AI-Coding-Tools-Directory
-
-![Cover image](cover.svg)
+![Cover image](cover.png)
 
 This repository is for indie builders and anyone who wants to build amazing stuff by utilizing AI tools. It collects tools, resources, and references to help creators prototype, build, and ship products faster with AI.
 
@@ -16,7 +14,6 @@ How to contribute:
 - Follow the repository's contribution guidelines.
 
 Creator: [Abdul Basit Memon](https://www.engrabm.com)
-
 
 ## 🖥️ AGENTIC IDEs WITH AI POWERED
 
