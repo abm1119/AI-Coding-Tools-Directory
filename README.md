@@ -225,6 +225,12 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** CLI Agent, Memory-Based, Context Persistence, Long-Term Learning
 - **Pricing:** Freemium
 
+### 18. agenttrace
+- **URL:** https://github.com/luoyuctl/agenttrace
+- **Description:** Local TUI and report viewer for inspecting AI coding-agent sessions, costs, tool calls, and run history
+- **Tags:** CLI Tool, Agent Observability, Session Reports, Open Source, Terminal-Native
+- **Pricing:** Free (Open Source)
+
 ---
 
 ## 🎨 AI POWERED AGENTIC APP BUILDERS 
