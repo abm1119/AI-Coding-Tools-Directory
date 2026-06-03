@@ -225,6 +225,12 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** CLI Agent, Memory-Based, Context Persistence, Long-Term Learning
 - **Pricing:** Freemium
 
+### 18. CoderPlan
+- **URL:** https://coderplan.ai
+- **Description:** Unified LLM API gateway providing OpenAI-compatible API access to Claude, OpenAI, Gemini, and Codex models. One endpoint for all AI coding tools including Claude Code, Cursor, and Continue. Pay-per-use with transparent pricing, supports Alipay/WeChat.
+- **Tags:** API Gateway, Multi-Model, Claude Code Compatible, Pay-Per-Use, China Accessible
+- **Pricing:** Pay-per-use (starting at ¥10)
+
 ---
 
 ## 🎨 AI POWERED AGENTIC APP BUILDERS 
