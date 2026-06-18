@@ -1023,6 +1023,12 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** Planning Tool, Research, Interactive, Documentation
 - **Pricing:** Free
 
+### 8. Roblox GUI Maker
+- **URL:** https://robloxguimaker.dev/
+- **Description:** Free AI Roblox GUI maker for planning Roblox Studio ScreenGui layouts, HUDs, menus, inventory screens, and Lua UI starter code before building.
+- **Tags:** Planning Tool, Roblox Studio, Game UI, ScreenGui, Lua
+- **Pricing:** Free
+
 ---
 
 ## 📝 HOW TO CONTRIBUTE
