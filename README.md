@@ -119,6 +119,13 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** Data Analysis, App Building, Task Automation, Desktop AI
 - **Pricing:** Freemium
 
+### 18. Minimax Code 
+- **URL:** https://code.minimax.io
+- **Description:** AI coding agent for autonomous software development with persistent memory, multi-agent workflows, code generation, debugging, and terminal automation.
+- **Tags:** AI Coding Agent, Developer Tools, Agentic IDE, Code Assistant, CLI, Multi-Agent, Software Development
+- **Pricing:** Paid — Token Plan (Plus: $20/month, Max: $50/month, Ultra: $120/month)
+
+### 19. 
 ---
 
 ## 💻 CLI BASED AGENTIC TOOLS AND AI POWERED CODERS
@@ -153,7 +160,7 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** CLI Agent, Open Source, Automation, Multi-Language Support
 - **Pricing:** Free (Open Source)
 
-### 6. Google Gemini CLI
+### 6. Google Gemini CLI (depreciate on 18 June, 2026) -- Use Antigravity CLI 
 - **URL:** https://ai.google.dev/gemini-cli
 - **Description:** Terminal-based interface to Google's Gemini AI with 1M token context, native tools, and generous free quota
 - **Tags:** CLI Agent, Terminal-Based, Large Context (1M tokens), Free Tier, MCP Integration
@@ -219,12 +226,17 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** CLI Agent, Open Source, Development Automation, Terminal-Native
 - **Pricing:** Free (Open Source)
 
-### 17. Letter Code
+### 17. Letta Code
 - **URL:** https://docs.letta.com/letta-code
 - **Description:** Memory-first agentic code assistant that maintains context across sessions
 - **Tags:** CLI Agent, Memory-Based, Context Persistence, Long-Term Learning
 - **Pricing:** Freemium
 
+### 18. Mimo Code Cli
+- **URL:** https://mimo.mi.com/docs/en-US/tokenplan/integration/mimo-code
+- **Description:** AI-powered coding assistant developed by Xiaomi, available as a CLI tool in the terminal.
+- **Tags:** CLI Agent, Code Generation, Open Source.
+- **Pricing:** Freemium
 ---
 
 ## 🎨 AI POWERED AGENTIC APP BUILDERS 
@@ -394,6 +406,12 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Description:** AWS-powered AI code assistant available through Amazon Q in VS Code
 - **Tags:** IDE Extension, AWS-Integrated, Code Suggestions, Cloud-Native
 - **Pricing:** Free with AWS account
+
+### 18. Zoo Code
+- **URL:** https://www.zoocode.dev
+- **Description:** Open-source AI coding assistant for Visual Studio Code with autonomous coding, multi-file editing, terminal execution, planning modes, MCP support, and customizable AI workflows.
+- **Tags:** AI Coding Assistant, VS Code Extension, Open Source, Agentic IDE, Developer Tools, MCP, Terminal AI
+- **Pricing:** Freemium
 
 ---
 
@@ -669,6 +687,12 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** Web Builder, Agent Creation, Drag-and-Drop, Visual Programming
 - **Pricing:** Freemium
 
+### 46. Onsapace.ai
+- **URL:** https://www.onspace.ai/
+- **Description:** AI-powered no-code platform for building full-stack web and mobile apps from natural language prompts.(similar to lovable)
+- **Tags:** AI App Builder, No-Code, Full-Stack, Web Apps, Mobile Apps, Developer Tools
+- **Pricing:** Freemium (Free plan available, Pro from $25/month)
+
 ---
 
 ## 🎨 AI UI/UX DESIGNERS
@@ -679,125 +703,149 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** Design Tool, UI Generation, Google AI, Web Design
 - **Pricing:** Free
 
-### 2. Readdy.ai
+### 2. pencil.dev
+- **URL:** https://pencil.dev
+- **Description:** Agent-driven MCP canvas for designing UI/UX directly in code with infinite design canvas, AI multiplayer, and pixel-perfect code generation
+- **Tags:** Design Tool, IDE Integration, Code Generation, AI Multiplayer, Design as Code
+- **Pricing:** Freemium
+
+### 3. paper.design
+- **URL:** https://paper.design
+- **Description:** Connected canvas for teams shipping with agents - design to code and back with real content integration and anti-slop workflow
+- **Tags:** Design Tool, Agent Integration, Code Sync, Real Content, Team Collaboration
+- **Pricing:** Freemium (Open Alpha)
+
+### 4. variant.com
+- **URL:** https://variant.com
+- **Description:** AI-powered generative design tool that shows endless design variations by scrolling, acting as a creative director with unlimited options
+- **Tags:** Design Tool, Generative AI, Design Exploration, Creative Direction, Visual Inspiration
+- **Pricing:** Subscription-based
+
+### 5. Readdy.ai
 - **URL:** https://readdy.ai
 - **Description:** Smart UI component generator with AI for responsive design
 - **Tags:** Design Tool, Component Generation, Responsive Design, UI Builder
 - **Pricing:** Freemium
 
-### 3. aurachat.io
+### 6. aurachat.io
 - **URL:** https://aurachat.io
 - **Description:** Aura-based design assistant for creative UI/UX development
 - **Tags:** Design Tool, Chat-Based Design, AI Assistant, Creative
 - **Pricing:** Freemium
 
-### 4. Napkins.dev
+### 7. Napkins.dev
 - **URL:** https://napkins.dev
 - **Description:** Quick design and prototyping tool with AI assistance
 - **Tags:** Design Tool, Prototyping, Quick Mockups, AI-Powered
 - **Pricing:** Free
 
-### 5. Figpal
+### 8. Figpal
 - **URL:** https://figpal.io
 - **Description:** AI assistant for Figma design platform
 - **Tags:** Design Tool, Figma Integration, Design Automation, AI Helper
 - **Pricing:** Paid
 
-### 6. uiwithai
+### 9. uiwithai
 - **URL:** https://uiwithai.com
 - **Description:** AI-powered UI builder for web and mobile applications
 - **Tags:** Design Tool, UI Generation, Web & Mobile, No-Code
 - **Pricing:** Freemium
 
-### 7. Relume.io
+### 10. Relume.io
 - **URL:** https://www.relume.io
 - **Description:** AI website builder with design-first approach
 - **Tags:** Design Tool, Website Builder, AI-Powered, Visual Design
 - **Pricing:** Freemium
 
-### 8. modulify.ai
+### 11. modulify.ai
 - **URL:** https://www.modulify.ai
 - **Description:** Design component automation for creating reusable UI modules
 - **Tags:** Design Tool, Component Library, Automation, Design Systems
 - **Pricing:** Freemium
 
-### 9. banani.co
+### 12. banani.co
 - **URL:** https://www.banani.co
 - **Description:** Smart design framework with AI for responsive layouts
 - **Tags:** Design Tool, Design Framework, Responsive, AI-Enhanced
 - **Pricing:** Freemium
 
-### 10. Codia AI
+### 13. Codia AI
 - **URL:** https://www.codia.ai
 - **Description:** Design-to-code AI converter for turning designs into clean code
 - **Tags:** Design Tool, Design-to-Code, Code Generation, Web Design
 - **Pricing:** Freemium
 
-### 11. Magic Patterns
+### 14. Magic Patterns
 - **URL:** https://www.magicpatterns.com
 - **Description:** AI-generated design patterns for rapid UI creation
 - **Tags:** Design Tool, Pattern Generation, UI Design, Template Library
 - **Pricing:** Freemium
 
-### 12. rotato.app
+### 15. rotato.app
 - **URL:** https://www.rotato.app
 - **Description:** 3D mockup and presentation tool for design visualization
 - **Tags:** Design Tool, Mockups, 3D Visualization, Presentation
 - **Pricing:** Freemium with premium
 
-### 13. penpot.app
+### 16. penpot.app
 - **URL:** https://penpot.app
 - **Description:** Open-source design platform with AI capabilities
 - **Tags:** Design Tool, Open Source, Collaborative, Web-Based
 - **Pricing:** Free (open source) + cloud options
 
-### 14. visily.ai
+### 17. visily.ai
 - **URL:** https://www.visily.ai
 - **Description:** AI mockup and wireframe generator from descriptions
 - **Tags:** Design Tool, Wireframe Generation, Mockup AI, Rapid Design
 - **Pricing:** Freemium
 
-### 15. Alienx
+### 18. Alienx
 - **URL:** https://alienx.io
 - **Description:** AI design intelligence for creative UI/UX development
 - **Tags:** Design Tool, AI Intelligence, Creative Design, Analysis
 - **Pricing:** Freemium
 
-### 16. layouts.dev
+### 19. layouts.dev
 - **URL:** https://layouts.dev
 - **Description:** Intelligent layout generator for responsive web design
 - **Tags:** Design Tool, Layout Generation, Responsive, Web-Focused
 - **Pricing:** Freemium
 
-### 17. Magicpath.ai
+### 20. Magicpath.ai
 - **URL:** https://magicpath.ai
 - **Description:** Design path optimization and creative direction AI
 - **Tags:** Design Tool, Path Optimization, Creative Guidance, Visual Design
 - **Pricing:** Freemium
 
-### 18. llamaCoder
+### 21. llamaCoder
 - **URL:** https://www.llamacoder.com
 - **Description:** LLM-powered code generation from designs and descriptions
 - **Tags:** Design Tool, Code Generation, LLM-Powered, Design-to-Code
 - **Pricing:** Freemium
 
-### 19. Lovart.ai
+### 22. Lovart.ai
 - **URL:** https://lovart.ai
 - **Description:** AI art and design generation for creative visual content
 - **Tags:** Design Tool, Art Generation, Creative, Visual Content
 - **Pricing:** Freemium
 
-### 20. Vixen AI
+### 23. Vixen AI
 - **URL:** https://vixenai.com
 - **Description:** AI design intelligence for user interface creation
 - **Tags:** Design Tool, UI Intelligence, Design Automation, Web Design
 - **Pricing:** Freemium
 
-### 21. memex.tech
+### 24. memex.tech
 - **URL:** https://memex.tech
 - **Description:** Design system and pattern library management with AI
 - **Tags:** Design Tool, Design System, Pattern Library, Documentation
 - **Pricing:** Freemium
+
+### 25. AIUI.me
+- **URL:** https://www.aiui.me
+- **Description:** Screenshot-to-code tool that transforms any screenshot into fully functional React.js and TailwindCSS components with customization
+- **Tags:** Design Tool, Screenshot-to-Code, Component Generation, React & TailwindCSS, Design-to-Dev
+- **Pricing:** Free (5 credits) + Premium ($4.99/month for 500 credits)
 
 ---
 
@@ -909,6 +957,8 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** AI Agent, Open Source, Workflow Automation, No-Code
 - **Pricing:** Free (open source) + cloud tiers
 
+### 15. Minimax 
+
 ---
 
 ## 🌐 BROWSER AGENTS
@@ -1011,13 +1061,7 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** Planning Tool, Long Context, Multi-Language, Analysis
 - **Pricing:** Freemium
 
-### 6. enzzo.ai
-- **URL:** https://enzzo.ai
-- **Description:** Project planning AI assistant
-- **Tags:** Planning Tool, Project Management, Organization, Planning
-- **Pricing:** Freemium
-
-### 7. NotebookLM
+### 6. NotebookLM
 - **URL:** https://notebooklm.google
 - **Description:** Google's interactive notebook with AI for research and planning
 - **Tags:** Planning Tool, Research, Interactive, Documentation
