@@ -53,11 +53,11 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** High-Performance IDE, Agentic Editing, Open Source, Multi-LLM Support, Remote Development
 - **Pricing:** Free + Free hosted model option
 
-### 7. Google Antigravity
-- **URL:** Internal Google tool (preview access)
+### 7. Google Antigravity 2.0 and CLI 
+- **URL:** https://antigravity.google/
 - **Description:** Google's enterprise-grade IDE rated best-in-class with AI-powered development and integrated debugging
 - **Tags:** Enterprise IDE, Google AI Integration, Advanced Debugging, Premium Features
-- **Pricing:** Free (early access)
+- **Pricing:** Freemium
 
 ### 8. MarsCode
 - **URL:** https://marscode.com
@@ -125,7 +125,23 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** AI Coding Agent, Developer Tools, Agentic IDE, Code Assistant, CLI, Multi-Agent, Software Development
 - **Pricing:** Paid — Token Plan (Plus: $20/month, Max: $50/month, Ultra: $120/month)
 
-### 19. 
+### 19. Stagewise
+- **URL:** stagewise.io
+- **Description:** Open-source agentic IDE that allows developers to create, orchestrate, in app previews, browser context, Git workflows, helping developers build features, fix bugs, etc
+- **Tags:** Open-Source, Agentic IDE, Multi-Agent Orchestration, AI Coding Assistant.
+- **Pricing:** Free/Open Source + Paid Plans
+
+### 20. ZCode
+- **URL:** https://zcode.z.ai/en
+- **Description:** An agentic coding platform that leverages deep GLM-5.2 integration to handle long-running tasks, planning, and multi-agent collaboration via WeChat/Feishu/Telegram.
+- **Tags:** Multi-Agent, Cross-Platform, Enterprise, Planning-Focused
+- **Pricing:** Paid (Requires Account/Beta Access)
+
+### 21. IBM Bob
+- **URL:** https://bob.ibm.com/
+- **Description:** An agentic AI development partner designed for enterprises to modernize legacy codebases (like COBOL/RPG), manage compliance, and scale software delivery.
+- **Tags:** Enterprise, Legacy Modernization, Agentic, IDE-Integrated
+- **Pricing:** Freemium/Contact for Enterprise
 ---
 
 ## 💻 CLI BASED AGENTIC TOOLS AND AI POWERED CODERS
@@ -167,8 +183,8 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Pricing:** Free tier + paid options
 
 ### 7. IQuest Coder
-- **URL:** https://iquestion.ai/iquest-coder
-- **Description:** Open-source AI code generation and refactoring tool for terminal-based development
+- **URL:** https://github.com/IQuestLab/IQuest-Coder-V1
+- **Description:** A series of open-source code LLMs (7B to 40B) optimized for tool use, CLI agents, and complex reasoning, featuring a "Loop-Thinking" architecture.
 - **Tags:** CLI Agent, Open Source, Code Generation, Terminal Native
 - **Pricing:** Free (Open Source)
 
@@ -237,6 +253,19 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Description:** AI-powered coding assistant developed by Xiaomi, available as a CLI tool in the terminal.
 - **Tags:** CLI Agent, Code Generation, Open Source.
 - **Pricing:** Freemium
+
+### 19. Shai
+- **URL:** https://github.com/ovh/shai
+- **Description:** A terminal-based coding assistant written in Rust that supports interactive chat, headless automation, and OpenAI-compatible API serving.
+- **Tags:** CLI Agent, Rust, Terminal-Based, API-Ready
+- **Pricing:** Open Source (Self-Hosted)
+
+### 20. AI2 Sera CLI
+- **URL:** https://github.com/allenai/sera-cli
+- **Description:** An open-source coding agent designed to streamline development workflows, installable via `pip install ai2-sera-cli`.
+- **Tags:** CLI Agent, Python, Open Source, Development Tool
+- **Pricing:** Open Source 
+
 ---
 
 ## 🎨 AI POWERED AGENTIC APP BUILDERS 
@@ -693,6 +722,12 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** AI App Builder, No-Code, Full-Stack, Web Apps, Mobile Apps, Developer Tools
 - **Pricing:** Freemium (Free plan available, Pro from $25/month)
 
+### 47. Fimo.ai
+- **URL:** https://fimo.ai/new
+- **Description:** A prompt-based AI coding assistant that offers an interactive, step-by-step guidance mode to help users build software through conversational interfaces.
+- **Tags:** AI Assistant, Conversational, Web-Based
+- **Pricing:** Freemium
+
 ---
 
 ## 🎨 AI UI/UX DESIGNERS
@@ -957,7 +992,17 @@ Creator: [Abdul Basit Memon](https://www.engrabm.com)
 - **Tags:** AI Agent, Open Source, Workflow Automation, No-Code
 - **Pricing:** Free (open source) + cloud tiers
 
-### 15. Minimax 
+### 15. DeerFlow
+- **URL:** https://github.com/bytedance/deer-flow
+- **Description:** An open-source, long-horizon "super agent" harness that orchestrates memory, sub-agents, and sandboxes to handle complex, multi-minute or hour-long development tasks.
+- **Tags:** Open Source, Long-Horizon, Multi-Agent, Workflow Automation
+- **Pricing:** Open Source
+
+### 16. Deep Agents Code
+**URL:** https://docs.langchain.com/oss/python/deepagents/code/overview
+**Description:** A flexible, open-source terminal coding agent built on the Deep Agents SDK, supporting provider-switching, persistent memory, and remote sandboxes.
+**Tags:** CLI Agent, SDK-Based, LangChain, Extensible
+**Pricing:** Open Source
 
 ---
 
